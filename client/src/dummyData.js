@@ -26,7 +26,6 @@
     {
       name: "Page G",
       uv: 3489,
-		test
     },
   ];
 
